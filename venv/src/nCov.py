@@ -11,6 +11,7 @@ a=0;
 c=0;
 t=0;
 
+
 #Skip header:
 gene.readline()
 for line in gene:
